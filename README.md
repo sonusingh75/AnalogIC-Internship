@@ -28,8 +28,11 @@
 
 ***Introduction to all the Fundamentals***
 
+- Analysis of RC circuits.
 - Understanding the BJT fundamentals. 
 - Understanding of MOS Transistor.
+- Understanding Current Mirror and Operational Amplifier.
+- Designing Differential Amplifier.
 - Understanding the Semiconductor IC Devices.
   
 ---------------------------------------------------------------------------------------------------
