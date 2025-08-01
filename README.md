@@ -1,4 +1,4 @@
-# Analog-IC-Design
+# AnalogIC-Internship
 
 ## Internship program 2025
 -------------------------------------------------------------------------------------
@@ -233,6 +233,9 @@ a
       - -3 dB frequency of the low-pass corner.
 
    - Measure the peak-to-peak voltage at the output and verify with AC sim results.
+ 
+- **Acknowledgement**
+  - I would like to thank Dr. Saroj Rout for his mentorship and guidance throughout the internship. Gratitude also to Silicon University and the open-source EDA community for enabling this work. 
 
   
 
